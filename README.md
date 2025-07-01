@@ -1,16 +1,24 @@
-## Hi there 👋
+**👋 Hi, I'm Yamini Karthik!**
 
-<!--
-**Yamini1025/Yamini1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore at San Jose State University, studying Computer Science
+💻 Interest in technology, problem-solving, and innovation
+🔭 Currently exploring Machine Learning and Artificial Intelligence, and eager to contribute to meaningful projects in these fields
 
-Here are some ideas to get you started:
+🎯**Projects:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a Break Through Tech Fellow - I am part of the 2025-2026 AI Program as well as the 2025 National Sprinternship at Cadence Design Systems. 
+These programs will allow me to work on collaborative, real-world AI projects over the next year.
+
+**🛠 Tech Skills:**
+
+Languages: Python, Java
+Data Science: Pandas, NumPy, scikit-learn, Matplotlib
+Web Dev: HTML, CSS
+Tools: Jupyter Notebooks, Google Colab, GitHub
+
+**📫 How to Reach Me:**
+
+Email: yamini.karthik06@gmail.com
+LinkedIn: www.linkedin.com/in/yamini-karthik
+
+**📊 GitHub Stats:** Coming soon!
