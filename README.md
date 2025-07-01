@@ -19,6 +19,6 @@ Tools: Jupyter Notebooks, Google Colab, GitHub
 **📫 How to Reach Me:**
 
 Email: yamini.karthik06@gmail.com
-LinkedIn: [www.linkedin.com/in/yamini-karthik](www.linkedin.com/in/yamini-karthik)
+LinkedIn: [www.linkedin.com/in/yamini-karthik](https://www.linkedin.com/in/yamini-karthik/)
 
 **📊 GitHub Stats:** Coming soon!
