@@ -6,7 +6,7 @@
 
 🎯**Projects:** 
 
-I am currently a Break Through Tech Fellow - I am part of the 2025-2026 AI Program as well as the 2025 National Sprinternship at Cadence Design Systems. 
+I am currently a [Break Through Tech Fellow](https://www.breakthroughtech.org/) - I am part of the 2025-2026 AI Program as well as the 2025 National Sprinternship at Cadence Design Systems. 
 These programs will allow me to work on collaborative, real-world AI projects over the next year.
 
 **🛠 Tech Skills:**
@@ -19,6 +19,6 @@ Tools: Jupyter Notebooks, Google Colab, GitHub
 **📫 How to Reach Me:**
 
 Email: yamini.karthik06@gmail.com
-LinkedIn: www.linkedin.com/in/yamini-karthik
+LinkedIn: [www.linkedin.com/in/yamini-karthik](www.linkedin.com/in/yamini-karthik)
 
 **📊 GitHub Stats:** Coming soon!
