@@ -6,8 +6,9 @@
 
 🎯**Projects:** 
 
-I am currently a [Break Through Tech Fellow](https://www.breakthroughtech.org/) - I am part of the 2025-2026 AI Program, where I have been matched with [Latitude AI](https://lat.ai/), as well as the 2025 National Sprinternship at Cadence Design Systems. These programs allow me to work on collaborative, real-world AI projects over the next year. 
-I will also be creating capstone projects as a result of a Udemy course called ["The Complete Full-Stack Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+• [Break Through Tech Fellow](https://www.breakthroughtech.org/) (2025-2026 AI Program) : Matched with [Latitude AI](https://lat.ai/), working on a collaborative, real-world AI project.
+• Break Through Tech 2025 National Sprinternship at [Cadence Design Systems](https://www.cadence.com/en_US/home.html) : Gained hands-on experience in software development through an HTML-to-PDF script project.
+• Capstone projects : Applying skills from Udemy's ["The Complete Full-Stack Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/) to build front-end and back-end projects.
 
 **🛠 Tech Skills:**
 
