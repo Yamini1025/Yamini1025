@@ -14,8 +14,8 @@
 
 Languages: Python, Java<br>
 Data Science: Pandas, NumPy, scikit-learn, Matplotlib<br>
-Web Dev: HTML, CSS, JavaScript, Bootstrap<br>
-Tools: Jupyter Notebooks, Google Colab, GitHub<br>
+Web Dev: HTML, CSS, JavaScript<br>
+Tools: Jupyter Notebooks, Google Colab, GitHub, Bootstrap<br>
 
 **📫 How to Reach Me:**
 
