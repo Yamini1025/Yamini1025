@@ -7,7 +7,7 @@
 🎯**Projects:** 
 
 I am currently a [Break Through Tech Fellow](https://www.breakthroughtech.org/) - I am part of the 2025-2026 AI Program as well as the 2025 National Sprinternship at Cadence Design Systems. 
-These programs will allow me to work on collaborative, real-world AI projects over the next year.
+These programs will allow me to work on collaborative, real-world AI projects over the next year. I will also be creating capstone projects as a result of a Udemy course called ["The Complete Full-Stach Web Dev Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 **🛠 Tech Skills:**
 
