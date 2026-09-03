@@ -13,6 +13,7 @@ I previously completed the Break Through Tech AI Program, where I developed my m
 ## 🎯 Projects:
 | Projects | Description |
 | --- | --- |
+| [AI Travel Agent](https://github.com/Yamini1025/travel-agent) | A full-stack AI travel planning application that generates personalized, day-by-day itineraries using real-time flight, hotel, attraction, and restaurant data. Built with React, FastAPI, Python, and Google Gemini, with SerpApi for live travel data and AI-powered preference validation and itinerary generation. |
 | [AI Skincare & Haircare Advisor](https://github.com/Yamini1025/skincare-haircare-agent) | A full-stack AI application that provides personalized skincare and haircare recommendations. Built with React, Tailwind CSS, FastAPI, Python, and Gemini, using an agent-based architecture for user intake, product research, and routine planning. |
 | [WiDS Datathon](https://github.com/Yamini1025/WiDS-Global-Datathon-BTT_Riparian) | Built machine learning pipelines using Python and XGBoost, applying feature engineering, model development, and evaluation techniques to a real-world data science problem.|
 | [Instance Segmentation for Autonomous Driving](https://github.com/Yamini1025/Instance-Segmentation-for-Autonomous-Driving) | Matched with [Latitude AI](https://lat.ai/) to collaborate on a cutting-edge AI project. Implemented deep learning models to detect and segment objects in real-time traffic scenarios. Gained hands-on experience with Python, PyTorch, and computer vision techniques while working in a team-driven, industry-like environment.|
